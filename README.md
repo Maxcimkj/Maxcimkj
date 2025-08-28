@@ -4,7 +4,7 @@ I'm a Senior Java Developer who spends his days making banks happy. I have 7+ ye
 
 In my free time, I build small utilities for gaming and other stuff - when I find the time between work and life.
 
-## 📁 Projects
+## 📁 Repos
 
 *If you're here to look at code, these repos actually make sense*
 
@@ -33,4 +33,4 @@ Proof of concept Node.js implementation of an automated triangular arbitrage bot
 Web-based radio streaming application that scrapes and plays music from OneTwo.tv. Features search by genre/artist, responsive UI, and RESTful API architecture.
 
 **Tech Stack:** Angular 5, Spring Boot 2.0, Bootstrap, Jsoup  
-**Note:** Old project, may not be working anymore. Haven't run it for a while.
+**Note:** Made for fun, old project that may not be working anymore. Haven't run it for a while and won't be actively maintained.
